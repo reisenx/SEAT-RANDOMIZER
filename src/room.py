@@ -83,8 +83,10 @@ class Room:
 
         # Get the names of the remaining available seats.
         remaining_seat_names = (
-            config.ROOM_DB[self.room_id][seat_id].seat_name
-            for seat_id in self.available_seats_id - self.occupied_seats_id
+            config.ROOMS_DB[self.room_id][seat_id].seat_name
+            for seat_id in sorted(
+                set(self.available_seats_id) - set(self.occupied_seats_id)
+            )
         )
 
         # Write logs.

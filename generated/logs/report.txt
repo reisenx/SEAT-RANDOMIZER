@@ -1,9 +1,9 @@
 ================================= PROGRAM REPORT FILE ==================================
-REPORT INITIALIZED AT Tue, 14 Oct 2025 16:49:04
+REPORT INITIALIZED AT Wed, 15 Oct 2025 09:33:28
 ========================================================================================
 
 ================================ CONFIGURATION SUMMARY =================================
-SEED: 1760435348.0494606
+SEED: RICE-SHOWER
 RANDOM MODE: ENABLED
 ========================================================================================
 
@@ -15,33 +15,33 @@ Output room CSV generated for Room Name: ROOM 01
 Room Capacity: 40
 Total Assigned Seats: 29
 Total Unassigned Seats: 11
-Unassigned Seat Names: [15, 17, 30, 33, 34, 35, 36, 37, 38, 39, 40]
+Unassigned Seat Names: [21, 30, 31, 33, 34, 35, 36, 37, 38, 39, 40]
 ----------------------------------------------------------------------------------------
 Output room CSV generated for Room Name: ROOM 02
 Room Capacity: 40
 Total Assigned Seats: 29
 Total Unassigned Seats: 11
-Unassigned Seat Names: [5, 22, 25, 33, 34, 35, 36, 37, 38, 39, 40]
+Unassigned Seat Names: [7, 14, 32, 33, 34, 35, 36, 37, 38, 39, 40]
 ----------------------------------------------------------------------------------------
 Output room CSV generated for Room Name: ROOM 03
 Room Capacity: 40
 Total Assigned Seats: 29
 Total Unassigned Seats: 11
-Unassigned Seat Names: [1, 9, 28, 33, 34, 35, 36, 37, 38, 39, 40]
+Unassigned Seat Names: [1, 5, 10, 33, 34, 35, 36, 37, 38, 39, 40]
 ----------------------------------------------------------------------------------------
 Output room CSV generated for Room Name: ROOM 04
 Room Capacity: 49
 Total Assigned Seats: 36
 Total Unassigned Seats: 13
-Unassigned Seat Names: [1, 2, 4, 36, 41, 42, 43, 44, 45, 46, 47, 48, 49]
+Unassigned Seat Names: [2, 30, 31, 35, 41, 42, 43, 44, 45, 46, 47, 48, 49]
 ----------------------------------------------------------------------------------------
 Output room CSV generated for Room Name: ROOM 05
 Room Capacity: 49
 Total Assigned Seats: 37
 Total Unassigned Seats: 12
-Unassigned Seat Names: [1, 20, 32, 41, 42, 43, 44, 45, 46, 47, 48, 49]
+Unassigned Seat Names: [33, 36, 38, 41, 42, 43, 44, 45, 46, 47, 48, 49]
 ----------------------------------------------------------------------------------------
 
 ==================================== END OF REPORT =====================================
-REPORT ENDED AT Tue, 14 Oct 2025 16:49:10
+REPORT ENDED AT Wed, 15 Oct 2025 09:34:00
 ========================================================================================
