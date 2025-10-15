@@ -1,0 +1,47 @@
+================================= PROGRAM REPORT FILE ==================================
+REPORT INITIALIZED AT Wed, 15 Oct 2025 09:33:28
+========================================================================================
+
+================================ CONFIGURATION SUMMARY =================================
+SEED: RICE-SHOWER
+RANDOM MODE: ENABLED
+========================================================================================
+
+Output students CSV generated successfully.
+Total Students: 160
+----------------------------------------------------------------------------------------
+Generating output CSV files for all rooms.
+Output room CSV generated for Room Name: ROOM 01
+Room Capacity: 40
+Total Assigned Seats: 29
+Total Unassigned Seats: 11
+Unassigned Seat Names: [21, 30, 31, 33, 34, 35, 36, 37, 38, 39, 40]
+----------------------------------------------------------------------------------------
+Output room CSV generated for Room Name: ROOM 02
+Room Capacity: 40
+Total Assigned Seats: 29
+Total Unassigned Seats: 11
+Unassigned Seat Names: [7, 14, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+----------------------------------------------------------------------------------------
+Output room CSV generated for Room Name: ROOM 03
+Room Capacity: 40
+Total Assigned Seats: 29
+Total Unassigned Seats: 11
+Unassigned Seat Names: [1, 5, 10, 33, 34, 35, 36, 37, 38, 39, 40]
+----------------------------------------------------------------------------------------
+Output room CSV generated for Room Name: ROOM 04
+Room Capacity: 49
+Total Assigned Seats: 36
+Total Unassigned Seats: 13
+Unassigned Seat Names: [2, 30, 31, 35, 41, 42, 43, 44, 45, 46, 47, 48, 49]
+----------------------------------------------------------------------------------------
+Output room CSV generated for Room Name: ROOM 05
+Room Capacity: 49
+Total Assigned Seats: 37
+Total Unassigned Seats: 12
+Unassigned Seat Names: [33, 36, 38, 41, 42, 43, 44, 45, 46, 47, 48, 49]
+----------------------------------------------------------------------------------------
+
+==================================== END OF REPORT =====================================
+REPORT ENDED AT Wed, 15 Oct 2025 09:34:00
+========================================================================================

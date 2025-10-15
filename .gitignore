@@ -1,0 +1,15 @@
+# Configuration files
+.vscode
+
+# Testing
+*test.py
+*test.cpp
+*.exe
+
+# Cache files
+*__pycache__
+*.ruff_cache
+*.mypy_cache
+
+# Log files
+*logs.txt
