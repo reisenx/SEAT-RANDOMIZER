@@ -6,7 +6,7 @@ This is the customized seat randomizer application using `pandas` library in
 <div align="center">
     <h2>
         <a href="/docs/README.md">
-            Project Documnetation
+            Project Documentation
         </a>
     </h2>
 </div>
@@ -180,7 +180,7 @@ validation stored inside `generated/logs` folder.
 -   The application can create `Room` object with attributes inside.
 -   The application can create `Seat` object with attributes inside.
 
-## User Configurations.
+## User Configurations
 
 -   The user can choose **NORMAL MODE** to assign each student by their ID order
 -   The user can choose **RANDOM MODE** assign each student in random order.
