@@ -183,7 +183,7 @@ validation stored inside `generated/logs` folder.
 ## User Configurations
 
 -   The user can choose **NORMAL MODE** to assign each student by their ID order
--   The user can choose **RANDOM MODE** assign each student in random order.
+-   The user can choose **RANDOM MODE** to assign each student in random order.
 -   The user can choose to specify seed for **RANDOM MODE**.
 
 ## Student Seat Assignments
