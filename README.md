@@ -17,7 +17,7 @@ This is the customized seat randomizer application using `pandas` library in
 
 ## Installation
 
--   This application requires `python` version `3.8` or newer.
+-   This application requires `python` version `3.9` or newer.
 -   After installing Python, make sure that `pip` (Python Package Manager) is
     already installed. You can try running these command lines below.
 
