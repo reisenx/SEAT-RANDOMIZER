@@ -57,7 +57,7 @@ serves as a student database file which has 2 columns as following
 ```
 student_id,student_name
 6525683421,John Smith
-6529497821,Jean Magaret
+6529497821,Jean Margaret
 6543950921,Harry Brown
 ...
 6788874621,Manuel Black
