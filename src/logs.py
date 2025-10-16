@@ -63,9 +63,7 @@ class Logs:
         """
 
         with open(config.LOGS_PATH, "a", encoding="utf-8") as log_file:
-            current_time = time.strftime("%H:%M:%S", time.localtime())
-
-            log_file.write(f"TIMESTAMP: [{current_time}]\n")
+            log_file.write(f"TIMESTAMP: [{Logs.get_time_str()}]\n")
             for message in messages:
                 log_file.write(f"  - {message}\n")
 
